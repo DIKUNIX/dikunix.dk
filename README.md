@@ -1,2 +1,2 @@
 # dikunix.dk
-Offentligt tilgængelig side.
+Kildekode til den offentligt tilgængelige side http://dikunix.dk/
